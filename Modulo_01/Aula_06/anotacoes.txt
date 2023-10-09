@@ -1,0 +1,15 @@
+CURSO PHP B7web - Primeiros comandos no PHP
+
+Apache(servidor) recebe a requisição(o que usuario solicitou)
+Manda pro local correto(nosso exemplo /php1)
+
+Chama o PHP pra interpretar o codigo PHP
+O PHP manda o resultado para o Apache(servidor)
+o apache(servidor) junta com o que não é interpretável e manda pro usuário
+
+Opa <?php  echo 'Jamerson'; ?>
+todo comando php para retornar algo preciso usar o comando (echo) e no final(;) 
+
+<?php echo 'Opa Jamerson Melo'; ?>       /     <?php echo 'Opa Jamerson Melo';
+caso voce nao coloque (?>) no final do codigo PHP o editor ira interpretar que o codigo todo é php pq na linha 1 do codigo voce abriu o php
+(<?php)

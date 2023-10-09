@@ -1,0 +1,10 @@
+CURSO PHP B7web - Como funciona o PHP?
+
+Por padrão o XAMPP vem na porta: 8080
+Atalhos de acesso servidor na maquina:
+
+127.0.0.1
+localhost
+
+Vamos criar uma pasta no C/XAMPP/htdocs
+Nome da pasta: php1

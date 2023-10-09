@@ -1,0 +1,5 @@
+CURSO PHP B7web - Editor de código(VSCODE)
+
+code.visualestudio.com - download
+Editor de Código: VSCode ou SublimeText
+- Instalar a extensão(Terminal)

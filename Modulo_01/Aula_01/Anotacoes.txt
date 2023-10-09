@@ -1,0 +1,5 @@
+CURSO PHP B7web - Introdução
+
+php.net
+
+download PHP 8.2.4 (Versao mais atual)

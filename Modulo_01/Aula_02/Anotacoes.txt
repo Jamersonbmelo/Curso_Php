@@ -1,0 +1,8 @@
+CURSO PHP B7web - Ferramentas Necessárias
+
+Ferramentas que vamos precisar:
+-Linguagem: PHP instalado
+-Servidor: Apache ou Nginx
+-Banco de Dados: MySQL
+-Editor de Código: VSCode ou SublimeText
+

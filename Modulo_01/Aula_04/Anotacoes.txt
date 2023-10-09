@@ -1,0 +1,18 @@
+CURSO PHP B7web - Instalando o PHP 8.2.4(XAMPP)
+
+WAMP (Windows)
+Windows
+Apache
+MySQL
+PHP 
+------------
+           =   XAMPP (TODOS)
+------------
+MAMP (Mac)
+Mac
+Apache
+MySQL
+PHP
+
+
+

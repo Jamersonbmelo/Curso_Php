@@ -1,0 +1,33 @@
+CURSO PHP B7web - Tipos de variáveis
+
+
+Toda variavel no php é precendida de ($)
+Exemplo: 
+
+<?php
+$x = 10;
+?>
+
+<?php
+$x = 10;
+echo $x + 2;
+?>
+
+Regras das variaveis
+Nao pode ter caracteris especiais
+Nao pode ter espaço
+variaveis com nome composto = ($TotalDaSoma)
+
+armazenamento dados na variaveis
+numeros 5; 
+numeros negativos -5; 
+numeros fracionario 0.5;
+string 'nome';
+
+
+<?php
+$nome = 'Jamerson'; //string
+$idade = 36; // inteiro
+$dormindo = true; // boolean
+$vazia = null; // nao tem valor atribuido
+$sobrenome = ''; // uma string vazia
