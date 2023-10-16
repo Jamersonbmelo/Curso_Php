@@ -21,7 +21,7 @@ Segurança no desenvolvimento PHP
 Eu irei adicionar cada aprendizado novo no meu repositório de acordo com o aprendizado;
 
 ## Módulos :books:
-- [Modulo 1](https://github.com/Jamersonbmelo/Curso_Php/tree/da6e018ea9d336dad89cb5a28407370b62e41d26/Modulo_01/) <br/>
+- [Modulo 1: Introdução // 11 aulas ](https://github.com/Jamersonbmelo/Curso_Php/tree/da6e018ea9d336dad89cb5a28407370b62e41d26/Modulo_01/) <br/>
 × Módulo 2: Condicionais e Loops <br/>
 × Módulo 3: Funções, Parâmetros e Includes <br/>
 × Módulo 4: Formulário, Validações, Sessão e Arquivos <br/>
