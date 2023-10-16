@@ -20,4 +20,18 @@ Segurança no desenvolvimento PHP
 
 Eu irei adicionar cada aprendizado novo no meu repositório de acordo com o aprendizado;
 
+× Módulo 1: Introdução
+× Módulo 2: Condicionais e Loops
+× Módulo 3: Funções, Parâmetros e Includes
+× Módulo 4: Formulário, Validações, Sessão e Arquivos
+× Módulo 5: Manipulação de Array
+× Módulo 6: Orientação à Objetos
+× Módulo 7: Banco de Dados, CRUD, DAO, SOLID
+× Módulo 8: Padrão MVC (Model, View, Controller)
+× Módulo 9: Criação de APIs
+× Módulo 10: Infraestrutura (Deploy)
+× Módulo 11: Questionário Prático
+× Módulo 12: Projeto Prático em MVC (Devsbook)
+× Módulo 13: Projeto Prático em OO (Devsbook)
+
 Obrigado.
