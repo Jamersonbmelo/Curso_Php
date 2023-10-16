@@ -20,8 +20,8 @@ Segurança no desenvolvimento PHP
 
 Eu irei adicionar cada aprendizado novo no meu repositório de acordo com o aprendizado;
 
-## Módulo 1: Introdução:books: <br/> 
-- (https://github.com/Jamersonbmelo/Curso_Php/tree/ed77b13b29e8ed1335c301c1bcf97ae72720b079/Modulo_01):
+## Módulos :books:
+- [React PDF](https://react-pdf.org/): versão xx.xxx
 × Módulo 2: Condicionais e Loops <br/>
 × Módulo 3: Funções, Parâmetros e Includes <br/>
 × Módulo 4: Formulário, Validações, Sessão e Arquivos <br/>
