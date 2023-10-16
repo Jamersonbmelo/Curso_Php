@@ -5,7 +5,7 @@ O curso é projetado para aprender PHP, uma das linguagens de programação mais
 
 O professor Bonyek Lacerda é um profissional experiente em PHP e possui um histórico comprovado de ensino e orientação. Com seu conhecimento e experiência, eu estou em boas mãos durante esta jornada de aprendizado.
 
-Conteúdo do Curso
+ - Conteúdo do Curso </br>
 O curso abrangerá uma ampla variedade de tópicos, incluindo:
 
 Sintaxe básica do PHP
