@@ -1,2 +1,44 @@
 CURSO PHP B7web - Mesclando Variáveis
 
+comando rodar web o php:
+http://localhost:8080/php1/index
+
+$nomeCompleto = $nome.$sobrenome
+(. = voce ta juntando uma variavel com outra)
+<?php
+$nome = 'Jamerson';
+$sobrenome = 'Melo';
+
+$nomeCompleto = $nome.$sobrenome;
+echo $nomeCompleto; 
+
+?>
+
+(usando aspas dupla faz a concatenação de espaço)
+<?php
+$nome = 'Jamerson';
+$sobrenome = 'Melo';
+
+$nomeCompleto = "$nome $sobrenome";
+echo $nomeCompleto; 
+?>
+
+(adicionando text usando mesma string de aspa dupla)
+<?php
+$nome = 'Jamerson';
+$sobrenome = 'Melo';
+$idade = 36;
+
+$frase = "$nome $sobrenome tem $idade anos";
+echo $frase; 
+?>
+
+(outras formas de concatenar)
+<?php
+$x = 3;
+$y = 4;
+
+$w = $x+$y;
+echo $w;
+
+?>

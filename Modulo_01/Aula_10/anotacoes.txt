@@ -1,0 +1,29 @@
+CURSO PHP B7web - Arrays Spread
+
+Nessa aula vamos adicionar corante no bolo2
+
+<?php
+$bolo1 = [
+    'açucar', // [1]
+    'farinha de trigo', // [2]
+    'ovo', // [3]
+    'leite', // [4]
+    'fermento em pó', // [5]
+];
+
+$bolo2 = [
+    'sal', // [0]
+    ...$bolo1,
+    'corante', // [6]
+];
+
+echo $bolo2[0];
+
+Outro exemplo de Array Spread
+
+<?php
+$lista1 = ['Jamerson', 'Bezerra', 'de', 'Melo'];
+$lista2 = ['tem', '36', 'anos'];
+$lista3 = [...$lista1, ...$lista2];
+
+print_r($lista3);
