@@ -20,7 +20,7 @@ Segurança no desenvolvimento PHP
 
 Eu irei adicionar cada aprendizado novo no meu repositório de acordo com o aprendizado;
 
-× Módulo 1: Introdução
+× Módulo 1: Introdução <br/>
 × Módulo 2: Condicionais e Loops
 × Módulo 3: Funções, Parâmetros e Includes
 × Módulo 4: Formulário, Validações, Sessão e Arquivos
