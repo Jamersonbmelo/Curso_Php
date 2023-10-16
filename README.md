@@ -1,6 +1,6 @@
 Curso de PHP do Início ao Avançado ministrado pelo professor Bonyek Lacerda da B7Web!
 
-Sobre o Curso
+- Sobre o Curso </br>
 O curso é projetado para aprender PHP, uma das linguagens de programação mais populares e versáteis para o desenvolvimento web. Com os conceitos básicos e, gradualmente, avançará para tópicos mais complexos, permitindo que eu me torne um desenvolvedor PHP competente.
 
 O professor Bonyek Lacerda é um profissional experiente em PHP e possui um histórico comprovado de ensino e orientação. Com seu conhecimento e experiência, eu estou em boas mãos durante esta jornada de aprendizado.
