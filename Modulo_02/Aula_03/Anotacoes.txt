@@ -1,0 +1,45 @@
+CURSO PHP B7web - Condicional Null cao
+
+<?php
+
+$nome = 'Jamerson';
+
+$nomeCompleto = $nome;
+$nomeCompleto .= isset($sobrenome) ? $sobrenome : '';
+
+echo $nomeCompleto;
+?>
+
+(O isset serve para saber se a variavel de fato exite)
+
+
+#############################################
+
+<?php
+
+$nome = 'Jamerson';
+$sobrenome = ' Melo';
+
+$nomeCompleto = $nome;
+$nomeCompleto .= isset($sobrenome) ? $sobrenome : '';
+
+echo $nomeCompleto;
+
+?>
+
+(Ele vai confirmar as duas variaveis porque realmente elas existem agora!)
+
+#############################################
+<?php
+
+$nome = 'Jamerson';
+$sobrenome = ' Melo';
+
+$nomeCompleto = $nome;
+$nomeCompleto .= $sobrenome ?? '';
+
+echo $nomeCompleto;
+
+?>
+
+(Forma simplificada usando Null Cao)
