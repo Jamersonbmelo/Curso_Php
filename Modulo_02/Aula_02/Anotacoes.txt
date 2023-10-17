@@ -1,0 +1,50 @@
+CURSO PHP B7web - Condicional Ternário
+
+<?php
+
+$idade = 36; 
+
+if($idade < 18) {
+    echo 'Menor de idade';
+} else {
+    echo 'Maior de idade';
+}
+
+?>
+#############################################
+(Condição) ? RESULTADO POSITIVO : RESULTADO NEGATIVO;
+
+<?php
+
+$idade = 36; 
+
+echo ($idade < 18) ? 'Menor de idade' : 'Maior de idade';
+
+?>
+#############################################
+ARMAZENANDO NA VARIAVEL COM CONDICIONAL TERNARIO
+
+<?php
+
+$idade = 36; 
+
+$resultado = ($idade < 18) ? 'Menor de idade' : 'Maior de idade';
+
+echo 'fulano é: '.$resultado;
+
+?>
+#############################################
+ARMAZENANDO NA VARIAVEL BOOLEAN COM CONDICIONAL TERNARIO
+
+<?php
+
+$idade = 36; 
+$MenorDeIdade = ($idade < 18 ) ? true : false;
+
+if($MenorDeIdade) {
+    echo 'MENOR';
+} else {
+    echo 'MAIOR';
+}
+
+?>
