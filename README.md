@@ -22,7 +22,7 @@ Eu irei adicionar cada aprendizado novo no meu repositório de acordo com o apre
 
 ## Módulos :books:
 - [Modulo 1: Introdução // 11 aulas ](https://github.com/Jamersonbmelo/Curso_Php/tree/da6e018ea9d336dad89cb5a28407370b62e41d26/Modulo_01/) <br/>
-- [Módulo 2: Condicionais e Loops // 9 aulas]([https://github.com/Jamersonbmelo/Curso_Php/tree/a7c1320ce363fe4a914a250d861ce60bc718a380/Modulo_02/](https://github.com/Jamersonbmelo/Curso_Php/tree/28cfd185f8dbc46cfcbdffcd2618f79edfb005ac/Modulo_02)) <br/>
+- [Módulo 2: Condicionais e Loops // 9 aulas](https://github.com/Jamersonbmelo/Curso_Php/tree/28cfd185f8dbc46cfcbdffcd2618f79edfb005ac/Modulo_02) <br/>
 × Módulo 3: Funções, Parâmetros e Includes <br/>
 × Módulo 4: Formulário, Validações, Sessão e Arquivos <br/>
 × Módulo 5: Manipulação de Array <br/>
