@@ -1,0 +1,18 @@
+CURSO PHP B7web - Loop For
+
+For tem 3 etapas que tem que preencher obrigadamente.
+1 Etapa - Definicao da variavel // $numero = 0;
+2 Etapa - A condição a cada loop que ele faz // $numero = < 10;
+3 Etapa - Fim de loop // $numero += 1;
+
+
+for ($numero = 0; $numero < 10; $numero += 1){
+    echo "N: ".$numero."<br/>";
+}
+
+for($i=0;$i<10;$i++)
+
+$i++ é mesma coisa que:
+$numero ++;
+$numero += 1;
+$numero = $numero +1;

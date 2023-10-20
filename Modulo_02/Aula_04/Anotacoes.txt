@@ -1,0 +1,38 @@
+CURSO PHP B7web - Condicional Switch
+
+<?php
+$tipo = 'video';
+
+if($tipo == 'foto') {
+    echo 'Exibindo uma foto';
+}
+
+if($tipo == 'video') {
+    echo 'Exibindo um video';
+}
+
+if($tipo == 'texto') {
+    echo 'Exibindo um texto';
+}
+
+?>
+
+#########################
+TRANSFORMANDO O CODIGO COM CONDICIONAL SWITCH:
+
+<?php
+$tipo = 'video';
+
+switch($tipo) {
+    case 'foto':
+        echo 'Exibindo uma foto';
+        break;
+    case 'video':
+        echo 'Exibindo um video';
+        break;
+    case 'texto':
+        echo 'Exibindo um texto';
+        break;
+}
+
+?>
