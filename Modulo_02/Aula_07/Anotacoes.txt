@@ -1,0 +1,30 @@
+CURSO PHP B7web - Loop Foreach
+
+For Each = Foreach
+Traduzindo: Para cada
+
+(ARRAY)
+<?php
+$ingredientes = [
+    'açucar',
+    'farinha de trigo',
+    'ovo',
+    'leite',
+    'fermento em pó'
+];
+
+(MOSTRAR AS CHAVES DO ARRAY)
+print_r($ingredientes);
+
+echo "<h2>Ingredientes</h2>";
+foreach ($ingredientes as $chave => $valor) {
+    echo "Item " . $chave . ": " . $valor . "<br/>";
+}
+
+(TRANSFORMANDO CONTAGEM COMPUTACIONAL PARA HUMANA +1)
+
+echo "<h2>Ingredientes</h2>";
+foreach ($ingredientes as $chave => $valor) {
+    echo "Item " . ($chave + 1) . ": " . $valor . "<br/>";
+}
+
