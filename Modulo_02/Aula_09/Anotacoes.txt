@@ -1,0 +1,14 @@
+CURSO PHP B7web - Exercicio Pratico 2
+
+
+<?php
+$t = '-';
+$n = 0;
+$i = '';
+
+for ($n = 0; $n <= 20; $n += 1) {
+    echo $i . '<br/>';
+    $i = $i . $t;
+}
+
+?>

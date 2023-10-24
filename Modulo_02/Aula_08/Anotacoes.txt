@@ -1,1 +1,12 @@
 CURSO PHP B7web - Exercicio Pratico 1
+
+<?php
+$traco = '-'; (Variavel 1)
+$numero = 0; (Variavel 2)
+
+while($numero < 10){
+    echo str_repeat($traco,10).'<br/>'; (str_repeat() = retorna vezes repetidas)
+    $numero++; (Retornamos o valor e incrementamos 1)
+}
+
+?>
