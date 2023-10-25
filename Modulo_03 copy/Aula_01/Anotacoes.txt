@@ -1,0 +1,24 @@
+CURSO PHP B7web - Introdução à Funções
+
+Toda função tem entrada de dados, voce vai mandar coisas pra ela;
+
+FUNCAO QUE VAI SOMAR...
+- NUMERO 1
+- NUMERO 2
+
+INTERNAMENTE COMO VAI FUNCIONA??
+
+- PEGAR O NUMERO 1 E ADICIONAR O NUMERO 2
+
+RESULTADO:
+- A SOMA DO NUMERO 1 E NUMERO 2
+
+
+EXEMPLO DE FUNÇÃO DO PHP
+
+<?php
+$lista = [10, 25, 3];
+
+print_r($lista);
+
+?>
